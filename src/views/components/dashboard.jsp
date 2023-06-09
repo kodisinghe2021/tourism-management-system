@@ -198,7 +198,7 @@
 	                <label  id="number" class="nofitems" value="1058470.20" ></label>
 	
 	                    <script> 
-	                        document.getElementById("number").innerText =  "Rs. " + formatMoney(<%out.print(networth);%>);
+	                        // document.getElementById("number").innerText =  "Rs. " + formatMoney(<%out.print(networth);%>);
 	                    </script>
 	
 	            </div>
