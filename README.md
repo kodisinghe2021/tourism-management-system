@@ -56,12 +56,12 @@ npm start
 The Tourism Management Website utilizes the following technologies:
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, java
-- **Database**: MySQL, MongoDB
-- **Payment Integration**: Stripe, PayPal
+- **Backend**: JSP, javaServelet
+- **Database**: MySQL
+- **Payment Integration**: PayPal
 - **Authentication**: JSON Web Tokens (JWT)
 - **Maps Integration**: Google Maps API
-- **Deployment**: Docker, AWS, Heroku
+- **Deployment**: Heroku
 
 ## Contributing
 
